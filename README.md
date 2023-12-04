@@ -1,2 +1,2 @@
 # rmd-gh-pages-eg
-Learning!
+Example in class
